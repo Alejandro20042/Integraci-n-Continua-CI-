@@ -10,7 +10,7 @@ public class CalculadoraTests
     {
         var calc = new Calculadora();
         int resultado = calc.Sumar(3, 2);
-        Assert.Equal(6, resultado);
+        Assert.Equal(5, resultado);
     }
 
     [Fact]
