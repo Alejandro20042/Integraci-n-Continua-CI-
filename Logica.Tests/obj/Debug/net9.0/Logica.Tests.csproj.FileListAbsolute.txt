@@ -100,3 +100,4 @@ C:\Users\aleja\Integraci-n-Continua-CI-\Logica.Tests\obj\Debug\net9.0\refint\Log
 C:\Users\aleja\Integraci-n-Continua-CI-\Logica.Tests\obj\Debug\net9.0\Logica.Tests.pdb
 C:\Users\aleja\Integraci-n-Continua-CI-\Logica.Tests\obj\Debug\net9.0\Logica.Tests.genruntimeconfig.cache
 C:\Users\aleja\Integraci-n-Continua-CI-\Logica.Tests\obj\Debug\net9.0\ref\Logica.Tests.dll
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica.Tests\obj\Debug\net9.0\Logica.Tests.sourcelink.json

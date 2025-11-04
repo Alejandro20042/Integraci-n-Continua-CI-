@@ -9,3 +9,4 @@ C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.dll
 C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\refint\Logica.dll
 C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.pdb
 C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\ref\Logica.dll
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.sourcelink.json
