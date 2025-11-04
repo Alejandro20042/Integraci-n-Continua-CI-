@@ -1,0 +1,11 @@
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\bin\Debug\net9.0\Logica.deps.json
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\bin\Debug\net9.0\Logica.dll
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\bin\Debug\net9.0\Logica.pdb
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.AssemblyInfoInputs.cache
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.AssemblyInfo.cs
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.dll
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\refint\Logica.dll
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\Logica.pdb
+C:\Users\aleja\Integraci-n-Continua-CI-\Logica\obj\Debug\net9.0\ref\Logica.dll
